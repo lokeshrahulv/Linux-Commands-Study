@@ -19,7 +19,7 @@ ls
 
 **Output:**
 
-<img width="219" alt="image" src="https://github.com/user-attachments/assets/0c0a657c-97f4-4e73-a483-e5e828390b14">
+![ls](https://github.com/user-attachments/assets/b04ad6dc-276b-4b36-b167-fa3226374ad8)
 
 
 ### 2. `pwd` Command
@@ -33,7 +33,7 @@ pwd
 
 **Output:**
 
-<img width="319" alt="image" src="https://github.com/user-attachments/assets/7e3be958-92f4-46da-aa96-333f6986b51e">
+![pwd](https://github.com/user-attachments/assets/31508136-969e-4812-aaaf-e0d6241fe345)
 
 
 ### 3. `mkdir` Command
@@ -47,7 +47,7 @@ mkdir <directory_name>
 
 **Output:**
 
-<img width="305" alt="image" src="https://github.com/user-attachments/assets/0b3a994f-dc6d-43e3-8933-65ee3d852a31">
+![mkdir](https://github.com/user-attachments/assets/54af24c3-b808-4a79-958d-aac356daf425)
 
 
 ### 4. `rmdir` Command
@@ -61,7 +61,7 @@ rmdir <directory_name>
 
 **Output:**
 
-<img width="301" alt="image" src="https://github.com/user-attachments/assets/4c0b13ed-8331-4ad2-a180-a315cb9b0926">
+![rmdir](https://github.com/user-attachments/assets/6a10b1f9-1161-4806-a457-07c2cc979ed0)
 
 
 ### 5. `cd` Command
@@ -75,7 +75,7 @@ cd <directory_name>
 
 **Output:**
 
-<img width="299" alt="image" src="https://github.com/user-attachments/assets/b0f678b8-b00b-4ac0-9e40-cbaf9b5a4d2c">
+![cd](https://github.com/user-attachments/assets/4bfb9aac-e9e7-40c3-b806-7ba5c38c704b)
 
 
 ### 6. `cat` Command
@@ -89,7 +89,7 @@ cat [OPTION]... [FILE]...
 
 **Output:**
 
-<img width="304" alt="image" src="https://github.com/user-attachments/assets/3e2759c2-9e2b-4e1e-8325-787f9dcbd755">
+![cat](https://github.com/user-attachments/assets/f82a2868-2cfa-43e6-93f0-2b6975e3ce7d)
 
 
 ### 7. `cp` Command
@@ -103,7 +103,7 @@ cp <source_file> <destination_file>
 
 **Output:**
 
-<img width="314" alt="image" src="https://github.com/user-attachments/assets/1851692d-2d1a-4974-8181-3b40cbd696ba">
+![cat](https://github.com/user-attachments/assets/971f7404-a5bb-4153-8021-2ef5a6085b25)
 
 
 ## 8. `gedit` Command
@@ -117,7 +117,7 @@ gedit filename.txt
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/d16fe2e2-f203-467a-a256-9a279889ae51)
+![gedit](https://github.com/user-attachments/assets/6ce379b4-d899-44df-8fbb-22a4d97e3249)
 
 
 ## 9. `su` Command
@@ -131,7 +131,7 @@ su root
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/da3d9bab-1f43-4fd2-936d-cd5d208eb605)
+![su](https://github.com/user-attachments/assets/d497e5ff-ef8c-47a4-8190-e9d97dd65755)
 
 
 ## 10. `mv` Command
@@ -145,7 +145,7 @@ mv filename.txt cloud2
 
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/a18d0a45-75ba-456a-8dfb-8e96b44bd105)
+![mv](https://github.com/user-attachments/assets/220cc9f5-713f-4cb7-8cee-64390f80141b)
 
 
 ## 11. `rename` Command
@@ -158,7 +158,6 @@ rename oldfile.txt newfile.txt
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/749822e3-c9dc-431f-b573-cf200afa24ac)
 
 
 ## 12. `head` Command
@@ -172,7 +171,6 @@ head filename.txt
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/f4dbcef7-ff80-436a-8a47-83f63f8e1e70)
 
 
 ## 13. `tail` Command
@@ -185,7 +183,6 @@ tail <file_name>
 tail filename.txt 
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/bd496d57-44d8-4b7e-8305-e2359d5fc121)
 
 
 ## 14. `id` Command
@@ -198,7 +195,7 @@ id
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/ad42807e-d328-4d8d-97e3-fb18dd632c9f)
+![id](https://github.com/user-attachments/assets/c8f8007b-605f-4765-b772-36ba779bb1f8)
 
 
 ### 15. `grep` Command
@@ -211,7 +208,7 @@ command | grep <search_word>
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/aad161ad-1d4d-4252-b154-22fcd6944ff2)
+![grep](https://github.com/user-attachments/assets/eaf14288-3a77-41e7-bc96-4e5142975b2d)
 
 
 ## 16. `tr` Command
@@ -227,7 +224,7 @@ echo "one two three" | tr ' ' '\n'
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/4801f8d1-9221-4969-810d-f945155db023)
+![tr](https://github.com/user-attachments/assets/21253ce7-3ac7-4f99-b829-a7d72bf25f3a)
 
 
 ## 17. `chmod` Command
@@ -241,7 +238,7 @@ chmod 755 file1
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/965bfe60-371a-4ccc-99ea-ecfae690308e)
+![chmod](https://github.com/user-attachments/assets/846a6072-a7c8-453d-bb65-33fc5cb0ffe0)
 
 
 ## 18. `tar` Command
@@ -255,8 +252,6 @@ tar -cvf archive.tar file1 file2
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/bf37f2b2-e877-4db2-96ad-94a8dd21c776)
-
 
 ## 19. `chown` Command
 
@@ -269,8 +264,6 @@ chown bharathi:root file1
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/1a2e9440-d1e7-41b7-91d9-bcf5baf6e6c3)
-
 
 ## 20. `make` Command
 
@@ -285,8 +278,6 @@ make clean
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/bbb8e1d8-2649-4945-b75a-8fa3f720e9c3)
-
 
 ## 21. `ifconfig` Command
 
@@ -298,7 +289,7 @@ ifconfig [options] [interface]
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/2f4044fd-18f2-412f-9c12-b8b04a09a808)
+![ifconfig](https://github.com/user-attachments/assets/207690a3-4b0b-417d-9a5e-7cb52d180cbe)
 
 
 ## 22. `chmod 777` Command
@@ -312,7 +303,7 @@ chmod 777 filename.txt
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/3c34e47b-a812-43d7-bfbc-3aab505114c9)
+![chmod](https://github.com/user-attachments/assets/cbcd8c5f-3858-48db-986d-4091aa0ad10f)
 
 
 ## 23. `host` Command
@@ -327,7 +318,7 @@ host www.amazon.com
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/a551b58b-26cd-4056-bc7f-38d0b531d21e)
+![host](https://github.com/user-attachments/assets/43e84164-2be6-44c3-8406-c907b19e06bb)
 
 
 ## 24. `gzip` Command
@@ -343,7 +334,7 @@ gzip -l filename.txt.gz
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/761d6bed-dd17-43b9-805f-124dfd9b66b8)
+![gzip](https://github.com/user-attachments/assets/267d407f-9544-4e48-963f-291d06bf28a2)
 
 
 ## 25. `sort` Command
@@ -357,7 +348,7 @@ sort filename.txt
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/539348b5-92c8-4a67-bdff-c848d2754c11)
+![sort](https://github.com/user-attachments/assets/113b4132-4a6d-4461-a1a5-389da851f2e5)
 
 
 ## 26. `cal` Command
@@ -370,7 +361,7 @@ cal
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/de1082c8-49d7-4fc6-b64a-2446c3abad56)
+![cal](https://github.com/user-attachments/assets/cce85aa7-c376-45f5-948b-c8b3d901ece7)
 
 
 ## 27. `clear` Command
@@ -383,7 +374,7 @@ clear
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/bb7a7e1f-ae07-4e6c-91b8-5ec792fe6402)
+![clear](https://github.com/user-attachments/assets/e8171fc2-64de-494c-94fc-1eb6af19883f)
 
 
 ## 28. `mail` Command
@@ -396,8 +387,6 @@ mail
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/db5cad74-8a0f-452f-bbd8-67ce911afbd0)
-
 
 ## 29. `df` Command
 
@@ -409,7 +398,7 @@ df
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/8d3b62c0-5558-4162-a2cd-ea07d45701d7)
+![df](https://github.com/user-attachments/assets/5733af36-274d-41f0-b794-9c972f810a4a)
 
 
 ## 30. `find` Command
@@ -423,7 +412,7 @@ find /etc -name "passwd"
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/74844dc1-0c8a-45d3-ac0d-93da990187ca)
+![find](https://github.com/user-attachments/assets/1db41b64-197e-471b-aace-8fb18cf0046b)
 
 
 ## Result :
